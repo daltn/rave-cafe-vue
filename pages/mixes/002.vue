@@ -1,6 +1,6 @@
 <template>
   <section class="threshold">
-    <h1 class="mu-title">002: welcome 2 the cafe</h1>
+    <h1 class="mu-title"><sup>002</sup> welcome 2 the cafe</h1>
     <img class="header-img" src="~/assets/welcome/welcome.jpg" />
     <section class="player">
       <iframe
@@ -15,7 +15,7 @@
     <section>
       <p>
         rave.cafe is an iterative digital art project intended to be an
-        extension of conversations and collaborations with friends, and an
+        extension of conversations & collaborations with friends, and an
         expression of the family we've found on the dance floor.
       </p>
       <p>
@@ -25,16 +25,15 @@
       </p>
       <p>
         the site will feature a variety of mixes, playlists, & conversations
-        with DJs, producers and musicians, and to kick it off we've asked some
-        of our friends to help us put together a radio mix of the one track they
-        are most excited to share with the world right now, and a buy music club
-        playlist of artists they want to support. it has always been our
+        with DJs, producers, & artists. to kick it off we've asked some of our
+        friends to help us put together a radio mix of the one track they are
+        most excited to share with the world right now alongside a buy music
+        club playlist of artists they want to support. it has always been our
         intention that this project grow and develop through collaboration so
         feel free to let us know if you have thoughts
         <a href="mailto:hey@rave.cafe">hey@rave.cafe</a>
       </p>
     </section>
-
     <NuxtLink to="/welcome">
       <Logo height="30" />
     </NuxtLink>
@@ -65,7 +64,7 @@ a {
 }
 
 .header-img {
-  margin: 50px 0;
+  margin: 40px 0;
 }
 
 .mu-title {
@@ -73,14 +72,17 @@ a {
     'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   display: block;
   font-weight: normal;
-  font-size: 80px;
+  font-size: 60px;
   color: #fff;
-  width: 80%;
+  width: 100%;
   letter-spacing: 1px;
   mix-blend-mode: difference;
   padding: 20px;
-  margin-bottom: 20px;
   text-align: center;
+}
+
+.mu-title sup {
+  font-size: 25px;
 }
 
 .threshold p {
@@ -116,5 +118,17 @@ img {
   width: 100%;
   margin: 5% 0;
   transition: opacity 5s ease-out;
+}
+@media only screen and (max-width: 750px) {
+  .mu-title {
+    color: #fff;
+    text-decoration: none;
+    font-size: 25px;
+    padding: 10px;
+    margin-top: 10px;
+  }
+  .mu-title sup {
+    font-size: 18px;
+  }
 }
 </style>
