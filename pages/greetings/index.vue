@@ -1,6 +1,6 @@
 <template>
   <section class="container">
-    <h1 class="title-right">we miss you</h1>
+    <h1 class="title">greetings from bushwick</h1>
     <div class="logo-wrap">
       <Logo height="50" />
     </div>
@@ -13,11 +13,10 @@
     <p>
       2021 was epic! We moved in together & returned to dance floors again as
       vaccines rolled out. There were trips to Colorado & Miami to visit family
-      and lots of outdoor & musical adventures. We started documenting the
-      musical outpouring of us and our friends & throwing listening parties.
-      Click the rotating smiley above to explore our site and if you’d like to
-      join the newsletter drop your email below. Take care of yourself & keep
-      dancing :)
+      and lots of outdoor & musical adventures. We started throwing parties &
+      documenting the music around those events. Click the rotating smiley above
+      to explore rave cafe and if you’d like to join the newsletter drop your
+      email below. Take care of yourself & keep dancing :)
     </p>
     <p class="center">&lt;3</p>
     <p class="center">L&amp;D</p>
@@ -107,7 +106,6 @@
       <h2>03 - march</h2>
       <img src="~/assets/2021/03/000113460023 2.jpg" />
       <img src="~/assets/2021/03/000113460034.jpg" />
-      <img src="~/assets/2021/03/IMG_3387 2.jpg" />
       <img src="~/assets/2021/03/IMG_3388.JPG" />
       <img src="~/assets/2021/03/IMG_3331.jpg" />
       <img src="~/assets/2021/03/IMG_3335.jpg" />
@@ -119,11 +117,13 @@
       <img src="~/assets/2021/04/000128390020 2.jpg" />
       <img src="~/assets/2021/04/000128390023 2.jpg" />
       <img src="~/assets/2021/04/000128390026 2.jpg" />
-      <img src="~/assets/2021/04/000128420004 2 2.jpg" />
+
       <img src="~/assets/2021/04/000128420006 2 2.jpg" />
       <img src="~/assets/2021/04/000128420008 2 2.jpg" />
-      <img src="~/assets/2021/04/Scan 1.jpeg" />
       <img src="~/assets/2021/04/Scan 2.jpeg" />
+      <img src="~/assets/2021/04/000128420004 2 2.jpg" />
+      <img src="~/assets/2021/04/Scan 1.jpeg" />
+
       <img src="~/assets/2021/04/Scan 8.jpeg" />
     </section>
     <section class="month-cell">
@@ -132,10 +132,13 @@
       <img src="~/assets/2021/05/000128400022 2 2.jpg" />
       <img src="~/assets/2021/05/000128400025 2 2.jpg" />
       <img src="~/assets/2021/05/000128400029 2 2.jpg" />
-      <img src="~/assets/2021/05/000128420030 2 2.jpg" />
-      <img src="~/assets/2021/05/Scan 3.jpeg" />
-      <img src="~/assets/2021/05/Scan 4.jpeg" />
+
       <img src="~/assets/2021/05/Scan.jpeg" />
+      <img src="~/assets/2021/05/Scan 3.jpeg" />
+
+      <img src="~/assets/2021/05/Scan 4.jpeg" />
+      <img src="~/assets/2021/05/000128420029 2 2.jpg" />
+      <img src="~/assets/2021/05/000128420030 2 2.jpg" />
     </section>
     <section class="month-cell">
       <h2>06 - june</h2>
@@ -151,14 +154,15 @@
     </section>
     <section class="month-cell">
       <h2>07 - july</h2>
+      <img src="~/assets/2021/07/000310030015 2 2.jpg" />
+      <img src="~/assets/2021/07/000310040001 2 2.jpg" />
       <img src="~/assets/2021/07/000309990022 2 2.jpg" />
       <img src="~/assets/2021/07/000310010021 2 2.jpg" />
       <img src="~/assets/2021/07/000310010013 2 2.jpg" />
       <img src="~/assets/2021/07/000310000004 2 2.jpg" />
       <img src="~/assets/2021/07/000310000007 2 2.jpg" />
       <img src="~/assets/2021/07/000310000021 2 2.jpg" />
-      <img src="~/assets/2021/07/000310030015 2 2.jpg" />
-      <img src="~/assets/2021/07/000310040001 2 2.jpg" />
+
       <img src="~/assets/2021/07/000310040034 2 2.jpg" />
       <img src="~/assets/2021/07/IMG_0739.jpg" />
       <img src="~/assets/2021/07/IMG_3734.jpg" />
@@ -174,24 +178,24 @@
       <img src="~/assets/2021/08/000558110034 2.jpg" />
       <img src="~/assets/2021/08/IMG_1836.jpg" />
       <img src="~/assets/2021/08/IMG_2826.jpg" />
-      <img src="~/assets/2021/08/IMG_3760.jpg" />
     </section>
     <section class="month-cell">
       <h2>09 - september</h2>
       <img src="~/assets/2021/09/Scan 5.jpeg" />
+      <img src="~/assets/2021/09/IMG_7584.jpg" />
+      <img src="~/assets/2021/09/IMG_2581.jpg" />
+      <img src="~/assets/2021/09/IMG_3872.jpg" />
+      <img src="~/assets/2021/09/IMG_3898.jpg" />
       <img src="~/assets/2021/09/D&L.jpg" />
       <img src="~/assets/2021/09/Adi.jpg" />
       <img src="~/assets/2021/09/FullSizeRender.jpg" />
+      <img src="~/assets/2021/09/IMG_3517.jpg" />
       <img src="~/assets/2021/09/IrvAdam.jpg" />
       <img src="~/assets/2021/09/Jelani.jpg" />
       <img src="~/assets/2021/09/Lauren.jpg" />
       <img src="~/assets/2021/09/IMG_0061.jpg" />
-      <img src="~/assets/2021/09/IMG_2581.jpg" />
-      <img src="~/assets/2021/09/IMG_3517.jpg" />
-      <img src="~/assets/2021/09/IMG_3872.jpg" />
-      <img src="~/assets/2021/09/IMG_3898.jpg" />
+
       <img src="~/assets/2021/09/IMG_3978.jpg" />
-      <img src="~/assets/2021/09/IMG_7584.jpg" />
     </section>
     <section class="month-cell">
       <h2>10 - october</h2>
@@ -221,6 +225,10 @@
       <img src="~/assets/2021/12/Scan 12.jpeg" />
       <img src="~/assets/2021/12/Scan 13.jpeg" />
     </section>
+    <div class="logo-wrap">
+      <Logo height="80" />
+      <br />
+    </div>
   </section>
 </template>
 
@@ -232,8 +240,7 @@ export default {}
 .logo-wrap {
   margin: 10px auto 0;
 }
-.title-right {
-  text-align: right;
+.title {
   margin: 20px 0 0;
 }
 p {
