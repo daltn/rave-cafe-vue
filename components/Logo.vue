@@ -44,7 +44,7 @@ export default {
     transform: rotate(0deg);
   }
   to {
-    transform: rotate(-359deg);
+    transform: rotate(359deg);
   }
 }
 </style>

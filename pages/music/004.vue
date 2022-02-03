@@ -1,41 +1,35 @@
 <template>
   <section class="threshold">
-    <h1 class="mu-title"><sup>002</sup> welcome 2 the cafe</h1>
-    <img class="header-img" src="~/assets/welcome/welcome.jpg" />
+    <h1 class="mu-title"><sup>004</sup> rave cafe @ bossa</h1>
+    <img class="header-img" src="~/assets/bossa/000310030012.jpg" />
+    <img class="header-img" src="~/assets/bossa/000310030015.jpg" />
+    <img class="header-img" src="~/assets/bossa/000310030007.jpg" />
+    <img class="header-img" src="~/assets/bossa/000310030011.jpg" />
+    <img class="flyer" src="~/assets/flyers/rc-bossa.png" />
     <section class="player">
       <iframe
         width="100%"
-        height="166"
+        height="450"
         scrolling="no"
         frameborder="no"
         allow="autoplay"
-        src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1032948211&color=%232c2c2c&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"
+        src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1389574348&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
       ></iframe>
     </section>
     <section>
+      <p>a couple b2b sets from a monday night @ bossa :)</p>
+      <p>love to their recovery from the fire</p>
       <p>
-        rave.cafe is an iterative digital art project intended to be an
-        extension of conversations & collaborations with friends, and an
-        expression of the family we've found on the dance floor.
-      </p>
-      <p>
-        we are experimenting with different ways of presenting music, connecting
-        outside of social media, and playing around with the internet as a
-        canvas.
-      </p>
-      <p>
-        the site will feature a variety of mixes, playlists, & conversations
-        with DJs, producers, & artists. to kick it off we've asked some of our
-        friends to help us put together a radio mix of the one track they are
-        most excited to share with the world right now alongside a buy music
-        club playlist of artists they want to support. it has always been our
-        intention that this project grow and develop through collaboration so
-        feel free to let us know if you have thoughts
-        <a href="mailto:hey@rave.cafe">hey@rave.cafe</a>
+        donations here -
+        <a
+          href="https://www.gofundme.com/f/bossa-nova-civic-club-restoration-staff-fund"
+          >bossa gofundme</a
+        >
       </p>
     </section>
-    <NuxtLink to="/welcome">
-      <Logo height="30" />
+    <br />
+    <NuxtLink to="/music">
+      <Logo height="80" />
     </NuxtLink>
     <br />
     <br />
@@ -65,6 +59,10 @@ a {
 
 .header-img {
   margin: 40px 0;
+}
+
+.flyer {
+  width: 400px;
 }
 
 .mu-title {

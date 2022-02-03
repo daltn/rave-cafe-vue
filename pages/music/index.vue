@@ -1,16 +1,30 @@
 <template>
   <section class="container">
-    <h1 class="mu-title">mixes</h1>
+    <h1 class="mu-title">music</h1>
     <ul class="mix-listing">
       <li class="mix-link">
-        <sup>001</sup> <NuxtLink to="/mixes/001">L&D </NuxtLink>
+        <sup>001</sup> <NuxtLink to="/music/001">L&D </NuxtLink>
       </li>
       <li class="mix-link">
-        <sup>002</sup> <NuxtLink to="/mixes/002">welcome 2 the cafe </NuxtLink>
+        <sup>002</sup> <NuxtLink to="/music/002">welcome 2 the cafe </NuxtLink>
+      </li>
+      <li class="mix-link">
+        <sup>003</sup> <NuxtLink to="/music/003">the chill mix </NuxtLink>
+      </li>
+      <li class="mix-link">
+        <sup>004</sup> <NuxtLink to="/music/004">rave cafe @ bossa </NuxtLink>
+      </li>
+      <li class="mix-link">
+        <sup>005</sup>
+        <NuxtLink to="/music/005">color potential</NuxtLink>
+      </li>
+      <li class="mix-link">
+        <sup>006</sup>
+        <NuxtLink to="/music/006">winter listening party </NuxtLink>
       </li>
     </ul>
     <NuxtLink to="/welcome">
-      <Logo height="30" />
+      <Logo height="80" />
     </NuxtLink>
   </section>
 </template>
@@ -37,6 +51,7 @@ export default {}
   color: #fff;
   text-decoration: none;
   font-size: 50px;
+  margin: 5px 0;
 }
 
 .mix-link sup {
