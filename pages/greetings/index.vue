@@ -79,13 +79,21 @@
       scrolling="no"
       frameborder="no"
       allow="autoplay"
-      src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/953332642&color=%232c2c2c&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"
+      src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1212923248%3Fsecret_token%3Ds-Al7EMblguPp&color=%231f100a&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
     ></iframe>
     <ul>
-      <li>tracklist</li>
-      <li>tracklist</li>
-      <li>tracklist</li>
-      <li>tracklist</li>
+      <li>Wendy & Lisa - Everything But You</li>
+      <li>Diana Ross - Love Hangover</li>
+      <li>T.S. Monk - Too Much Too Soon</li>
+      <li>Casey MQ - Candyboy</li>
+      <li>Gnork - Blorp93</li>
+      <li>Kalim Shabazz - Joy</li>
+      <li>Ghost Piss - Worry (Kareem Ali Remix)</li>
+      <li>Orlando Voorn - Exstraterestrial</li>
+      <li>Ebende - For Love</li>
+      <li>Folsom & Tate - A.C.F.M.</li>
+      <li>Awesome 3 - Don't Go</li>
+      <li>Drexciya - Black Sea (Aqualung Version)</li>
     </ul>
     <section class="month-cell">
       <h2>01 - january</h2>
@@ -225,6 +233,15 @@
       <img src="~/assets/2021/12/Scan 12.jpeg" />
       <img src="~/assets/2021/12/Scan 13.jpeg" />
     </section>
+    <video
+      src="https://media.giphy.com/media/q36nZfAghoJEC5xS5X/giphy.mp4"
+      autoplay
+      loop
+      playsinline
+      muted
+    ></video>
+    <br />
+    <br />
     <div class="logo-wrap">
       <Logo height="80" />
       <br />
