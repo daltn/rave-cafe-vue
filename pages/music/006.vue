@@ -1,7 +1,20 @@
 <template>
   <section class="threshold">
     <h1 class="mu-title"><sup>006</sup> winter listening party</h1>
-    <img class="header-img" src="~/assets/welcome/welcome.jpg" />
+    <video
+      class="header-vid"
+      src="https://media.giphy.com/media/HbGJqnXvxneffAc1zZ/giphy.mp4"
+      autoplay
+      loop
+      playsinline
+      muted
+    ></video>
+    <img
+      class="sketch"
+      src="https://ravecafe.s3.amazonaws.com/Scan+15.jpeg"
+      alt="dancers"
+    />
+
     <section class="player">
       <iframe
         width="100%"
@@ -20,6 +33,11 @@
         invite friends into our new apartment, and provided another opportunity
         to build off the learnings from our natural tie-dye event in July.
       </p>
+      <img
+        class="sketch"
+        src="https://ravecafe.s3.amazonaws.com/Scan+3.jpeg"
+        alt="speaker plants"
+      />
       <p>
         Zim, Fine Touch, disco smile and Devoye played a selection of music
         ranging from ambient, jazz, & a capella, to spaced-out house & techno.
@@ -29,6 +47,14 @@
         speakers, and a QSC speaker to create an immersive three-point listening
         experience.
       </p>
+
+      <video
+        src="https://media.giphy.com/media/s2qR8DBhMlRjORjEbx/giphy.mp4"
+        autoplay
+        loop
+        playsinline
+        muted
+      ></video>
       <p>
         Inspired by Justin Carter and Eamon Harkin’s Planetarium party, we
         decided to make the basement a no-talking zone where guests could sit or
@@ -41,6 +67,12 @@
         particular would reflect the lights to create a psychedelic art
         experience.
       </p>
+      <img
+        class="sketch"
+        src="https://ravecafe.s3.amazonaws.com/Scan+6.jpeg"
+        alt="hungry?"
+      />
+
       <p>
         We felt that it was important for guests to be able to fully relax
         without feeling like they were on-camera so for the livestream we angled
@@ -51,28 +83,59 @@
         so that each DJ could pop in and engage with the chat as they wished,
         without creating any light pollution.
       </p>
+      <img
+        class="sketch"
+        src="https://ravecafe.s3.amazonaws.com/Scan+29.jpeg"
+        alt="sketch"
+      />
+
       <p>
         One of my biggest takeaways was realizing that our upstairs neighbor is
-        an amazing artist! This has left questions in my mind around the
-        importance of, and different ways in which we might be able to document
-        the happenings within the dance music scene in NYC. How do you record
-        the vibe of a dance floor if the very presence of a camera ruins it? Is
-        the experience of dance one that is inherently ephemeral? Do stories and
-        the feeling left behind by the music suffice?
+        an
+        <a
+          href="https://www.garrettwaynewalters.com/"
+          target="_blank"
+          rel="norefferer nofollow"
+          >amazing artist</a
+        >!
       </p>
-
+      <img
+        class="sketch"
+        src="https://ravecafe.s3.amazonaws.com/Scan+27.jpeg"
+        alt="sketch"
+      />
+      <p>
+        I'm left with questions in my mind around the importance of, and
+        different ways in which we might be able to document the happenings
+        within the dance music scene in NYC. How do you record the vibe of a
+        dance floor if the very presence of a camera ruins it? Is the experience
+        of dance one that is inherently ephemeral? Do stories and the feeling
+        left behind by the music suffice?
+      </p>
       - L
     </section>
     <ul class="grid">
       <li><img src="~/assets/winter/Scan 12.jpeg" /></li>
       <li><img src="~/assets/winter/Scan 13.jpeg" /></li>
     </ul>
+    <img
+      class="sketch"
+      src="https://ravecafe.s3.amazonaws.com/Scan+28.jpeg"
+      alt="sketch"
+    />
     <NuxtLink to="/welcome">
-      <Logo height="30" />
+      <Logo height="80" />
     </NuxtLink>
     <br />
     <br />
-    <br />
+    <video
+      class="inset-vid"
+      src="https://media.giphy.com/media/LKiV4VidohJFv5TbmQ/giphy.mp4"
+      autoplay
+      loop
+      playsinline
+      muted
+    ></video>
   </section>
 </template>
 
@@ -102,8 +165,21 @@ a {
   grid-gap: 20px;
 }
 
+.sketch {
+  max-width: 500px;
+}
+
 .header-img {
   margin: 40px 0;
+}
+.header-vid {
+  width: 100%;
+  height: auto;
+}
+.inset-vid {
+  margin: 0 auto 150px;
+  width: 100%;
+  max-width: 500px;
 }
 
 .mu-title {

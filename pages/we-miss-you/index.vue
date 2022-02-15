@@ -76,7 +76,7 @@
       scrolling="no"
       frameborder="no"
       allow="autoplay"
-      src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/953332642&color=%232c2c2c&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"
+      src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/953332642%3Fsecret_token%3Ds-dTjaSMBcsPX&color=%231f100a&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"
     ></iframe>
     <ul>
       <li>01 - January: <br />Val Young - Seduction</li>
