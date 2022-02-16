@@ -30,7 +30,7 @@
         from a monday night @ bossa :)
       </p>
       <p>
-        donate here to help support their recovery from the fire that occurred
+        Donate here to help support their recovery from the fire that occurred
         on 01.12.2022 -
         <a
           target="_blank"

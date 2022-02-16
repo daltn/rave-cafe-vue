@@ -54,9 +54,16 @@
           >DJ Shrimp</a
         >
         created a vibe that ranged from ambient, downtempo & drone, to floaty
-        house and techno. Karl brought a slice of the Karlala Soundsystem to
-        create small, distinct points of sound around the space. Pia Coconut
-        generally hid in Joe’s room.
+        house and techno.
+        <a
+          href="https://www.instagram.com/karlalamusic/"
+          rel="noreferrer nofollow"
+          target="_blank"
+          >Karl</a
+        >
+        brought a slice of the Karlala Soundsystem to create small, distinct
+        points of sound around the space. Pia Coconut generally hid in Joe’s
+        room.
       </p>
       <img
         class="header-img"
