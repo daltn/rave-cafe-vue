@@ -2,6 +2,7 @@
   <div>
     <img
       class="logo"
+      :class="bottom && 'margin-bottom'"
       :style="style"
       src="~/assets/rc-smile.png"
       alt="rave.cafe logo"
@@ -16,6 +17,10 @@ export default {
     height: {
       type: String,
       default: '100',
+    },
+    bottom: {
+      type: Boolean,
+      default: false,
     },
   },
   computed: {
@@ -32,6 +37,10 @@ export default {
   margin: auto;
   opacity: 0.2;
   transition: all 2s ease;
+}
+
+.margin-bottom {
+  margin: 100px 0;
 }
 
 .logo:hover {

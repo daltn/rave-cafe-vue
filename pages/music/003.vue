@@ -33,11 +33,8 @@
       </ul>
     </section>
     <NuxtLink to="/music">
-      <Logo height="80" />
+      <Logo height="80" :bottom="true" />
     </NuxtLink>
-    <br />
-    <br />
-    <br />
   </section>
 </template>
 

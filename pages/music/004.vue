@@ -1,15 +1,11 @@
 <template>
   <section class="threshold">
     <h1 class="mu-title"><sup>004</sup> rave cafe @ bossa</h1>
-    <img class="header-img" src="~/assets/bossa/000310030012.jpg" />
-    <img class="header-img" src="~/assets/bossa/000310030015.jpg" />
     <img class="header-img" src="~/assets/bossa/000310030007.jpg" />
-    <img class="header-img" src="~/assets/bossa/000310030011.jpg" />
-    <img class="flyer" src="~/assets/flyers/rc-bossa.png" />
     <section class="player">
       <iframe
         width="100%"
-        height="450"
+        height="285"
         scrolling="no"
         frameborder="no"
         allow="autoplay"
@@ -17,23 +13,44 @@
       ></iframe>
     </section>
     <section>
-      <p>a couple b2b sets from a monday night @ bossa :)</p>
-      <p>love to their recovery from the fire</p>
       <p>
-        donations here -
+        <a href="https://soundcloud.com/taal-nyc" rel="noreferrer nofollow"
+          >Taal</a
+        >
+        b2b
+        <a href="https://soundcloud.com/dlc_nyc" rel="noreferrer nofollow"
+          >Downloadable Content</a
+        >
+        and
+        <a href="https://soundcloud.com/discosmile" rel="noreferrer nofollow"
+          >L</a
+        >&<a href="https://soundcloud.com/daltonsaffe" rel="noreferrer nofollow"
+          >D</a
+        >
+        from a monday night @ bossa :)
+      </p>
+      <p>
+        donate here to help support their recovery from the fire that occurred
+        on 01.12.2022 -
         <a
+          target="_blank"
+          rel="norefferer nofollow"
           href="https://www.gofundme.com/f/bossa-nova-civic-club-restoration-staff-fund"
           >bossa gofundme</a
         >
       </p>
     </section>
+    <div class="grid">
+      <img class="header-img" src="~/assets/bossa/000310030012.jpg" />
+      <img class="header-img" src="~/assets/bossa/000310030015.jpg" />
+    </div>
+    <img class="header-img" src="~/assets/bossa/000310030011.jpg" />
+    <img class="flyer" src="~/assets/flyers/rc-bossa.png" />
+
     <br />
     <NuxtLink to="/music">
-      <Logo height="80" />
+      <Logo height="80" :bottom="true" />
     </NuxtLink>
-    <br />
-    <br />
-    <br />
   </section>
 </template>
 
@@ -77,10 +94,6 @@ a {
   mix-blend-mode: difference;
   padding: 20px;
   text-align: center;
-}
-
-.mu-title sup {
-  font-size: 25px;
 }
 
 .threshold p {

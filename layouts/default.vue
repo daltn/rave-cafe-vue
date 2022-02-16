@@ -6,6 +6,7 @@
 
 <style>
 @import url('https://fonts.googleapis.com/css?family=DM+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital@0;1&display=swap');
 :root {
   --black: #1c1c1c;
 }
@@ -20,6 +21,15 @@ html {
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
   color: #fff;
+}
+
+.center {
+  text-align: center;
+}
+
+.small-img {
+  max-width: 500px;
+  margin: 80px auto;
 }
 
 *,
@@ -68,5 +78,22 @@ h1 {
 .page-enter,
 .page-leave-to {
   opacity: 0;
+}
+
+.mu-title sup {
+  font-size: 25px;
+  margin-right: 6px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 20px;
+}
+
+@media only screen and (max-width: 750px) {
+  .grid {
+    grid-template-columns: repeat(1, 1fr);
+  }
 }
 </style>

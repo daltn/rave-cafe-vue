@@ -9,16 +9,11 @@
       playsinline
       muted
     ></video>
-    <img
-      class="sketch"
-      src="https://ravecafe.s3.amazonaws.com/Scan+15.jpeg"
-      alt="dancers"
-    />
 
     <section class="player">
       <iframe
         width="100%"
-        height="450"
+        height="350"
         scrolling="no"
         frameborder="no"
         allow="autoplay"
@@ -27,107 +22,157 @@
     </section>
     <section>
       <p>
-        On 12.11.21 we hosted a high-fidelity listening party in our basement.
-        Three months prior, during Hurricane Ida, the space had been flooded
-        with 6 inches of water, so this was the first time we’d had a chance to
-        invite friends into our new apartment, and provided another opportunity
-        to build off the learnings from our natural tie-dye event in July.
+        On 12.11.21 we hosted a high-fidelity listening party in L&D's basement.
       </p>
-      <img
-        class="sketch"
-        src="https://ravecafe.s3.amazonaws.com/Scan+3.jpeg"
-        alt="speaker plants"
-      />
+      <div class="center">
+        <img
+          src="https://ravecafe.s3.amazonaws.com/ravecafe-winter-flyer.jpg"
+          class="small-img"
+          alt="winter listening flyer"
+        />
+      </div>
       <p>
-        Zim, Fine Touch, disco smile and Devoye played a selection of music
-        ranging from ambient, jazz, & a capella, to spaced-out house & techno.
-        Adi & Aileen rigged a custom LED ceiling light installation and vibed
-        out the space with a smattering of iridescent fabric and a gradient of
-        pink to orange hues of light. They also brought Adi’s two ojas hi-fi
-        speakers, and a QSC speaker to create an immersive three-point listening
-        experience.
+        <a
+          href="https://soundcloud.com/zimmem03"
+          target="_blank"
+          rel="noreferrer nofollow"
+          >Zim</a
+        >,
+        <a
+          href="https://soundcloud.com/djfinetouch"
+          target="_blank"
+          rel="noreferrer nofollow"
+          >Fine Touch</a
+        >,
+        <a
+          href="https://soundcloud.com/discosmile"
+          target="_blank"
+          rel="noreferrer nofollow"
+          >disco.smile</a
+        >
+        and
+        <a
+          href="https://soundcloud.com/devoye"
+          target="_blank"
+          rel="noreferrer nofollow"
+          >Devoye</a
+        >
+        played a selection of music ranging from ambient, jazz, and a cappella
+        to spaced-out house and techno.
       </p>
-
-      <video
-        src="https://media.giphy.com/media/s2qR8DBhMlRjORjEbx/giphy.mp4"
-        autoplay
-        loop
-        playsinline
-        muted
-      ></video>
+      <div class="center">
+        <img
+          class="sketch"
+          src="https://ravecafe.s3.amazonaws.com/Scan+3.jpeg"
+          alt="speaker plants"
+        />
+      </div>
+      <p>
+        <a href="https://adi.pizza/" target="_blank" rel="noreferrer nofollow"
+          >Adi</a
+        >
+        & Aileen brought two Ojas hi-fi speakers, and a QSC speaker to create an
+        immersive three-point listening experience. They also rigged a custom
+        LED ceiling light installation, and vibed out the rest of the apartment
+        with silver iridescent fabric and pink and orange light.
+      </p>
+      <div class="center">
+        <video
+          class="wall-vid"
+          src="https://ravecafe.s3.amazonaws.com/wall-vid.mp4"
+          autoplay
+          loop
+          playsinline
+          muted
+        ></video>
+      </div>
       <p>
         Inspired by Justin Carter and Eamon Harkin’s Planetarium party, we
         decided to make the basement a no-talking zone where guests could sit or
         lie on the floor, snuggle up in blankets and experience active
-        listening. We sought to create a space where guests were given
-        permission to be left alone to observe and just be. We laid down a 10x12
-        foot area of black ⅝ inch gym mats, and littered the space with blue ink
-        pens and white paper to encourage guests to sketch and then tape up
-        their drawings on the wall. I was interested in seeing how blue ink in
-        particular would reflect the lights to create a psychedelic art
-        experience.
+        listening. We sought to create an environment where listeners were given
+        permission to be left alone to observe and just be, as well as a space
+        where each DJ was encouraged to experiment and express themself in
+        unexpected ways.
       </p>
-      <img
-        class="sketch"
-        src="https://ravecafe.s3.amazonaws.com/Scan+6.jpeg"
-        alt="hungry?"
-      />
-
+      <div class="center">
+        <section class="grid">
+          <img
+            class="sketch"
+            src="https://ravecafe.s3.amazonaws.com/Scan+27.jpeg"
+            alt="sketch"
+          />
+          <img
+            class="sketch"
+            src="https://ravecafe.s3.amazonaws.com/Scan+29.jpeg"
+            alt="sketch"
+          />
+        </section>
+      </div>
       <p>
-        We felt that it was important for guests to be able to fully relax
-        without feeling like they were on-camera so for the livestream we angled
-        the webcam into a mirror tilted towards the ceiling light installation,
-        resulting in a more abstract image of the silhouetted DJ, with brief
-        silhouettes of guests moving through the space. We also placed the
-        computer running the stream behind a curtain in the back of the DJ booth
-        so that each DJ could pop in and engage with the chat as they wished,
-        without creating any light pollution.
+        We provided sheets of paper and blue ink pens and invited guests to
+        sketch “a friend, a plant, whatever,” and tape their drawings up on a
+        blank wall. I was curious what images the environment would inspire and
+        particularly interested in seeing how blue ink would interact with the
+        changing lights.
       </p>
-      <img
-        class="sketch"
-        src="https://ravecafe.s3.amazonaws.com/Scan+29.jpeg"
-        alt="sketch"
-      />
-
+      <div class="center">
+        <img
+          class="sketch"
+          src="https://ravecafe.s3.amazonaws.com/Scan+6.jpeg"
+          alt="hungry?"
+        />
+      </div>
       <p>
-        One of my biggest takeaways was realizing that our upstairs neighbor is
-        an
+        We wanted to include a livestream element, but felt it was important for
+        guests to be able to fully relax without feeling like they were
+        on-camera; so we angled the webcam into a mirror tilted up towards the
+        light installation. This resulted in a more abstract image of the space,
+        silhouetting the DJ and any bodies moving through the space. We also
+        placed the computer running the stream behind a curtain in the back of
+        the DJ booth so that each DJ could pop in and engage with the chat as
+        they wished, without creating any light pollution.
+      </p>
+      <div class="center">
+        <img
+          class="sketch"
+          src="https://ravecafe.s3.amazonaws.com/Scan+28.jpeg"
+          alt="sketch"
+        />
+        <img
+          class="sketch"
+          src="https://ravecafe.s3.amazonaws.com/Scan+15.jpeg"
+          alt="dancers"
+        />
+      </div>
+      <p>
+        I was struck by how beautifully and accurately some of the sketches
+        captured the spirit of the event. Notably,
         <a
           href="https://www.garrettwaynewalters.com/"
           target="_blank"
-          rel="norefferer nofollow"
-          >amazing artist</a
-        >!
+          rel="noreferrer nofollow"
+          >Garrett's</a
+        >
+        portrayal of the end of the night, when the chill out zone became a
+        dance floor. This has left questions in my mind around the different
+        ways in which we might be able to document the dance music scene.
       </p>
-      <img
-        class="sketch"
-        src="https://ravecafe.s3.amazonaws.com/Scan+27.jpeg"
-        alt="sketch"
-      />
       <p>
-        I'm left with questions in my mind around the importance of, and
-        different ways in which we might be able to document the happenings
-        within the dance music scene in NYC. How do you record the vibe of a
-        dance floor if the very presence of a camera ruins it? Is the experience
-        of dance one that is inherently ephemeral? Do stories and the feeling
-        left behind by the music suffice?
+        How do you capture the vibe of a dance floor if the very presence of a
+        camera ruins it? Is documentation even necessary? Is the experience of
+        dance one that is inherently ephemeral? Do anecdotes and the music
+        itself suffice?
+        <br />
+        <br />
+        - L
       </p>
-      - L
     </section>
     <ul class="grid">
       <li><img src="~/assets/winter/Scan 12.jpeg" /></li>
       <li><img src="~/assets/winter/Scan 13.jpeg" /></li>
     </ul>
-    <img
-      class="sketch"
-      src="https://ravecafe.s3.amazonaws.com/Scan+28.jpeg"
-      alt="sketch"
-    />
-    <NuxtLink to="/welcome">
-      <Logo height="80" />
-    </NuxtLink>
-    <br />
-    <br />
+
     <video
       class="inset-vid"
       src="https://media.giphy.com/media/LKiV4VidohJFv5TbmQ/giphy.mp4"
@@ -136,6 +181,9 @@
       playsinline
       muted
     ></video>
+    <NuxtLink to="/music">
+      <Logo height="80" :bottom="true" />
+    </NuxtLink>
   </section>
 </template>
 
@@ -167,6 +215,12 @@ a {
 
 .sketch {
   max-width: 500px;
+  margin: 40px auto;
+}
+.wall-vid {
+  max-width: 800px;
+  width: 100%;
+  margin: 40px auto;
 }
 
 .header-img {
@@ -177,7 +231,7 @@ a {
   height: auto;
 }
 .inset-vid {
-  margin: 0 auto 150px;
+  margin: 0 auto;
   width: 100%;
   max-width: 500px;
 }

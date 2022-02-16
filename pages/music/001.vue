@@ -31,12 +31,9 @@
         self. All is mind.
       </p>
     </section>
-    <NuxtLink to="/welcome">
-      <Logo height="30" />
+    <NuxtLink to="/music">
+      <Logo height="80" :bottom="true" />
     </NuxtLink>
-    <br />
-    <br />
-    <br />
   </section>
 </template>
 

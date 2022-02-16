@@ -1,13 +1,14 @@
 <template>
   <section class="threshold">
     <h1 class="mu-title"><sup>005</sup>color potential</h1>
-    <img class="header-img" src="~/assets/color-potential/000310040034.jpg" />
-    <img class="header-img" src="~/assets/color-potential/000310000004.jpg" />
-
+    <div class="grid">
+      <img class="header-img" src="~/assets/color-potential/000310040034.jpg" />
+      <img class="header-img" src="~/assets/color-potential/000310000004.jpg" />
+    </div>
     <section class="player">
       <iframe
         width="100%"
-        height="450"
+        height="350"
         scrolling="no"
         frameborder="no"
         allow="autoplay"
@@ -19,13 +20,56 @@
         On 07.27.21 we hosted a non-dance party at Joe & Dalton’s beloved loft
         space in Bushwick. The event was also streamed on Twitch.
       </p>
+      <div class="center">
+        <img
+          class="small-img"
+          src="https://ravecafe.s3.amazonaws.com/tiedyeflyer-v2.jpg"
+          alt="tie dye flyer"
+        />
+      </div>
       <p>
-        Great Ghost, Doctor Earth, Miss Alicia and DJ Shrimp created a vibe that
-        ranged from ambient, downtempo & drone, to floaty house and techno. Karl
-        brought a slice of the Karlala Soundsystem to create small, distinct
-        points of sound around the space. Pia Coconut generally hid in Joe’s
-        room.
+        <a
+          href="https://soundcloud.com/greatghost"
+          target="_blank"
+          rel="noreferrer nofollow"
+          >Great Ghost</a
+        >,
+        <a
+          href="https://soundcloud.com/doctorearth"
+          rel="noreferrer nofollow"
+          target="_blank"
+          >Doctor Earth</a
+        >,
+        <a
+          href="https://soundcloud.com/alicia-coleman-122434942"
+          rel="noreferrer nofollow"
+          target="_blank"
+          >Miss Alicia</a
+        >
+        and
+        <a
+          href="https://soundcloud.com/daltonsaffe"
+          rel="noreferrer nofollow"
+          target="_blank"
+          >DJ Shrimp</a
+        >
+        created a vibe that ranged from ambient, downtempo & drone, to floaty
+        house and techno. Karl brought a slice of the Karlala Soundsystem to
+        create small, distinct points of sound around the space. Pia Coconut
+        generally hid in Joe’s room.
       </p>
+      <img
+        class="header-img"
+        src="~/assets/color-potential/000310000021.jpg"
+        alt="party vibes"
+      />
+      <div class="center">
+        <img
+          class="small-img"
+          src="~/assets/color-potential/Scan 10.jpeg"
+          alt="party vibes"
+        />
+      </div>
       <p>
         It was late summer 2021, vaccines were a thing, and NYC had exploded
         back to life with myriad dance parties and raves. For us, it was a time
@@ -35,7 +79,11 @@
         our friends could relax, reflect, and gather in a meaningful way outside
         of a dance floor.
       </p>
-      <img class="header-img" src="~/assets/color-potential/000310000007.jpg" />
+      <img
+        class="header-img"
+        src="~/assets/color-potential/000310000007.jpg"
+        alt="party vibes"
+      />
       <p>
         We wanted to provide an activity for guests to participate in, and I had
         been researching ways to create natural dyes, using sustainability and
@@ -45,6 +93,14 @@
         plant-based substances including turmeric, cabbage, avocado pits,
         blueberries and blackberries.
       </p>
+      <div class="center"></div>
+      <div class="center">
+        <img
+          class="small-img"
+          src="~/assets/color-potential/Scan 9.jpeg"
+          alt="party vibes"
+        />
+      </div>
       <p>
         In the end, only the turmeric ended up sticking to the shirts. The
         cabbage and avocado dye spoiled before the event even started, and the
@@ -54,35 +110,32 @@
         gathered around a table to eat curry, listen to music, and play around
         with the color potential of plants.
       </p>
-      <p>
-        <br />
-        - L
-      </p>
-      <img class="header-img" src="~/assets/color-potential/000310000021.jpg" />
+
       <ul class="grid">
         <li><img src="~/assets/color-potential/Scan 6.jpeg" /></li>
         <li><img src="~/assets/color-potential/Scan 11.jpeg" /></li>
-        <li><img src="~/assets/color-potential/Scan 9.jpeg" /></li>
-        <li><img src="~/assets/color-potential/Scan 10.jpeg" /></li>
-        <li><img src="~/assets/color-potential/Scan 7.jpeg" /></li>
         <li>
-          <p>
-            “It is forming before our very eyes. Organically, and through enough
-            different minds that it’s only a matter of time and patience until
-            we see what she has the potential to become. And even then… she will
-            be still and only ever catapulting forward into the next. Or
-            fissuring and falling to the wayside. A collection of 60 shirts,
-            faintly tinged with turmeric.” 🙃
+          <img class="small-img" src="~/assets/color-potential/Scan 7.jpeg" />
+        </li>
+        <li>
+          <p class="pull-quote">
+            It is forming before our very eyes. <br /><br />Organically, and
+            through enough different minds that it’s only a matter of time and
+            patience until we see what she has the potential to become.
+            <br /><br />
+            And even then… she will be still and only ever catapulting forward
+            into the next. Or fissuring and falling to the wayside.
+            <br /><br />A collection of 60 shirts, faintly tinged with turmeric.
+            <br />
+            <br />
+            - L
           </p>
         </li>
       </ul>
     </section>
-    <NuxtLink to="/welcome">
-      <Logo height="30" />
+    <NuxtLink to="/music">
+      <Logo height="80" :bottom="true" />
     </NuxtLink>
-    <br />
-    <br />
-    <br />
   </section>
 </template>
 
@@ -165,8 +218,7 @@ h3 {
 
 img {
   width: 100%;
-  margin: 5% 0;
-  transition: opacity 5s ease-out;
+  margin: 0 auto;
 }
 @media only screen and (max-width: 750px) {
   .mu-title {
