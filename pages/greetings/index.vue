@@ -233,6 +233,12 @@
       <img src="~/assets/2021/12/Scan 12.jpeg" />
       <img src="~/assets/2021/12/Scan 13.jpeg" />
     </section>
+    <section class="month-cell">
+      <img
+        src="https://ravecafe.s3.amazonaws.com/IMG_2021.jpg"
+        alt="mailing post cards"
+      />
+    </section>
     <video
       src="https://media.giphy.com/media/q36nZfAghoJEC5xS5X/giphy.mp4"
       autoplay
