@@ -74,6 +74,7 @@ export default {}
   .cafe {
     flex-direction: column;
     overflow: hidden;
+    flex-direction: column-reverse;
   }
   .table + .nav-txt {
     opacity: 1;

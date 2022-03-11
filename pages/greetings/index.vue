@@ -249,7 +249,9 @@
     <br />
     <br />
     <div class="logo-wrap">
-      <Logo height="80" />
+      <NuxtLink to="/">
+        <Logo height="80" />
+      </NuxtLink>
       <br />
     </div>
   </section>

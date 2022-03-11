@@ -3,24 +3,28 @@
     <h1 class="mu-title">music</h1>
     <ul class="mix-listing">
       <li class="mix-link">
-        <sup>001</sup> <NuxtLink to="/music/001">L&D </NuxtLink>
+        <sup>007</sup>
+        <NuxtLink to="/music/007">the track ID mix</NuxtLink>
       </li>
       <li class="mix-link">
-        <sup>002</sup> <NuxtLink to="/music/002">welcome 2 the cafe </NuxtLink>
-      </li>
-      <li class="mix-link">
-        <sup>003</sup> <NuxtLink to="/music/003">the chill mix </NuxtLink>
-      </li>
-      <li class="mix-link">
-        <sup>004</sup> <NuxtLink to="/music/004">rave cafe @ bossa </NuxtLink>
+        <sup>006</sup>
+        <NuxtLink to="/music/006">winter listening party </NuxtLink>
       </li>
       <li class="mix-link">
         <sup>005</sup>
         <NuxtLink to="/music/005">color potential</NuxtLink>
       </li>
       <li class="mix-link">
-        <sup>006</sup>
-        <NuxtLink to="/music/006">winter listening party </NuxtLink>
+        <sup>004</sup> <NuxtLink to="/music/004">rave cafe @ bossa </NuxtLink>
+      </li>
+      <li class="mix-link">
+        <sup>003</sup> <NuxtLink to="/music/003">the chill mix </NuxtLink>
+      </li>
+      <li class="mix-link">
+        <sup>002</sup> <NuxtLink to="/music/002">welcome 2 the cafe </NuxtLink>
+      </li>
+      <li class="mix-link">
+        <sup>001</sup> <NuxtLink to="/music/001">L&D </NuxtLink>
       </li>
     </ul>
     <NuxtLink to="/welcome">
