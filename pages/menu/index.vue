@@ -1,31 +1,14 @@
 <template>
-  <section class="menu">
-    <h1>menu</h1>
-    <h3 class="menu-title">bevs</h3>
-    <ul>
-      <li><NuxtLink to="/menu/coffee">coffee</NuxtLink></li>
-      <li>butter coffee</li>
-      <li>iced tea</li>
-      <li>lemon seltz</li>
-    </ul>
-    <h3 class="menu-title">food</h3>
-    <ul class="food-list">
-      <li>
-        <p>fish tin</p>
-        &
-        <p>herbed veggies</p>
-        &
-        <p>sweet potato / plantain mash</p>
+  <section class="container">
+    <h1 class="mu-title">menus</h1>
+    <ul class="mix-listing">
+      <li class="mix-link">
+        <NuxtLink to="/menu/001">001</NuxtLink>
       </li>
-      <li>
-        <p>soft boiled eggs</p>
-        &
-        <p>coconut greens</p>
-        &
-        <p>seaweed rice</p>
-      </li>
-      <li>iced weed</li>
     </ul>
+    <NuxtLink to="/welcome">
+      <Logo height="80" />
+    </NuxtLink>
   </section>
 </template>
 
@@ -34,42 +17,46 @@ export default {}
 </script>
 
 <style scoped>
-.menu {
-  display: flex;
-  max-width: 700px;
-  justify-content: center;
-  align-items: center;
-  margin: 0 auto;
-  flex-direction: column;
+.mu-title {
+  font-family: 'Quicksand', 'Source Sans Pro', -apple-system, BlinkMacSystemFont,
+    'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  display: block;
+  font-weight: normal;
+  font-size: 80px;
+  color: #fff;
+  width: 100%;
+  letter-spacing: 1px;
+  mix-blend-mode: difference;
+  padding: 20px;
 }
 
-.menu-title {
-  font-size: 40px;
-  margin: 20px 0;
-}
-
-h1 {
-  font-size: 55px;
-}
-
-ul {
-  text-align: center;
-}
-
-li {
-  margin: 10px 0 10px;
-}
-
-a {
+.mix-link {
   color: #fff;
   text-decoration: none;
+  font-size: 50px;
+  margin: 5px 0;
+}
+
+.mix-link sup {
+  font-size: 25px;
+}
+
+.mix-listing {
+  margin: 20px 0 40px;
 }
 
 a:hover {
   text-decoration: underline;
 }
 
-.food-list li {
-  margin: 0 0 50px 0;
+@media only screen and (max-width: 700px) {
+  .mix-link {
+    color: #fff;
+    text-decoration: none;
+    font-size: 25px;
+  }
+  .mix-link sup {
+    font-size: 18px;
+  }
 }
 </style>
