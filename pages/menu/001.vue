@@ -1,6 +1,11 @@
 <template>
   <section class="menu-content">
     <h1 class="mu-title">menu <sup>001</sup></h1>
+    <img
+      src="https://ravecafe.s3.amazonaws.com/zinez.jpg"
+      alt="stacks of zines"
+    />
+    <h3>welcome to the cafe</h3>
     <section class="menu-intro">
       <p>
         Rave Cafe is an iterative physical / digital art project that manifested
