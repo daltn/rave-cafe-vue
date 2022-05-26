@@ -638,12 +638,14 @@
     </section>
     <br />
     <br />
+
     <iframe
       src="https://www.buymusic.club/embed/ravecafe-l-b33"
       height="500"
       width="100%"
       frameborder="0"
     ></iframe>
+
     <NuxtLink to="/">
       <Logo height="80" :bottom="true" />
     </NuxtLink>
