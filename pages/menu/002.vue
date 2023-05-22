@@ -228,6 +228,10 @@
         src="https://ravecafe.s3.amazonaws.com/menu-002/garret.jpg"
         alt="digital painting"
       />
+      <img
+        src="https://ravecafe.s3.amazonaws.com/menu-002/lily.jpg"
+        alt="journals"
+      />
     </section>
     <p class="caption">
       <b>The New Sounds</b> <br />
