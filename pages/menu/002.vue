@@ -1,7 +1,10 @@
 <template>
   <section class="menu-content">
     <h1 class="mu-title">menu <sup>002</sup></h1>
-    [[[zine stack pic here]]]
+    <img
+      src="https://ravecafe.s3.amazonaws.com/menu-002/stack.jpg"
+      alt="stack of zines"
+    />
     <section class="menu-intro">
       <p>Welcome to the digital component of our second zine :)</p>
     </section>
