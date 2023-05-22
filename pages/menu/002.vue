@@ -224,13 +224,15 @@
     </section>
 
     <section>
-      <img
-        src="https://ravecafe.s3.amazonaws.com/menu-002/garret.jpg"
-        alt="digital painting"
-      />
+      <h3>How To Preserve Yourself In Print</h3>
+      <p class="center">by Lily Myers-Cooke</p>
       <img
         src="https://ravecafe.s3.amazonaws.com/menu-002/lily.jpg"
         alt="journals"
+      />
+      <img
+        src="https://ravecafe.s3.amazonaws.com/menu-002/garret.jpg"
+        alt="digital painting"
       />
     </section>
     <p class="caption">
