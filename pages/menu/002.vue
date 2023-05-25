@@ -241,6 +241,62 @@
       Garrett Wayne Walters <br />
       2023
     </p>
+
+    <section class="essay">
+      <h3>Tender Luminaries</h3>
+      <p class="center">by Britne Potter</p>
+      <div class="center">
+        <a href="https://brittnepotter.studio/">brittnepotter.studio</a>
+      </div>
+      <p>
+        Cochineal is a small insect harvested from the Nopal cactus. Native to
+        the Americas, these insects were discovered and used by the Aztecs and
+        Incas to dye their clothing. Today, Cochineal is used in a variety of
+        food dyes as well as makeup products (and more). Once the cochineal is
+        harvested from the cactus, they are dried and stored until ready to be
+        processed. When the insects are crushed in a molcajete, they omit a
+        scarlet red colouring. This is Carminic acid, a substance gained from
+        the insect ingesting the juices of the Nopal cactus.
+      </p>
+      <p>
+        You've likely heard the phrase, "You are what you eat." It is no secret
+        that nutrient dense foods and hydration helps the brain, body, and
+        emotional health function at its best. While we are in this human form,
+        it is imperative that we understand the soul within the body. In
+        ordinary, mundane activities we can face tensions from the materialistic
+        world and its influ-ences. Simply being in nature calms and nourishes
+        the being; reducing stress levels and increasing our productivity.
+      </p>
+      <p>
+        Raising one's awareness and the knowledge to shift our frequency is
+        ours. Mindful consumption, daily movement and immersion in nature is our
+        birthright. It is through these concepts that we can trust deeply in the
+        unknown, as we gain a clear vision of what fires our soul. Lamp
+        explorations with Cochineal.
+      </p>
+      <div class="grid">
+        <img
+          src="https://ravecafe.s3.amazonaws.com/menu-002/britne-1.png"
+          alt="cochineal lamps"
+        />
+        <img
+          src="https://ravecafe.s3.amazonaws.com/menu-002/britne-2.png"
+          alt="cochineal lamps"
+        />
+        <img
+          src="https://ravecafe.s3.amazonaws.com/menu-002/britne-3.png"
+          alt="cochineal lamps"
+        />
+        <img
+          src="https://ravecafe.s3.amazonaws.com/menu-002/britne-4.png"
+          alt="cochineal lamps"
+        />
+      </div>
+    </section>
+    <img
+      src="https://ravecafe.s3.amazonaws.com/menu-002/crafting.jpg"
+      alt="crafting"
+    />
     <section class="essay">
       <img
         src="https://ravecafe.s3.amazonaws.com/menu-002/shikha.png"
