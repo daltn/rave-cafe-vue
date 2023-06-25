@@ -5,6 +5,22 @@
       src="https://ravecafe.s3.amazonaws.com/menu-002/stack.jpg"
       alt="stack of zines"
     />
+    <section class="essay">
+      <h3>rave cafe is not for sale</h3>
+
+      <p>
+        This project operates through donations and any material items we create
+        are gifted, never sold. If you have the means, please consider a
+        donation to help us recoup the production costs of the zine. Any extra
+        will be put towards future rave cafe projects.
+      </p>
+      <p class="center">Total cost was: $2,242</p>
+      <p class="center">
+        <a href="https://account.venmo.com/u/laurenrbrady"
+          >Donate via venmo - @laurenrbrady</a
+        >
+      </p>
+    </section>
     <section class="email-page">
       <h3>email</h3>
       <p>Drop your email below to join the newsletter. We won't spam you.</p>
